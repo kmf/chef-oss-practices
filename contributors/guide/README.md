@@ -168,7 +168,7 @@ The [Project Membership Document](../../project-membership.md) covers membership
 
 ## Communication
 
-- [General Information](../communication) on communication can be found here.
+- [General Information](../../communication/README.md) on communication can be found here.
 
 ## Events
 
